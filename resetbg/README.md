@@ -1,5 +1,5 @@
-# Install
+# Deps Install
 
-1. pip install removebg
+1. `pip install removebg`
 
-2. pip install Pillow
+2. `pip install Pillow`
